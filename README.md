@@ -1,8 +1,4 @@
 ## Hi there 👋
-
-<!--
-**VishnuDwivedi/VishnuDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am a Data Science and Analytics Engineering Student at Arizona State University . I have 4 years of experience in Tech before my Studies. 
 
 - 🔭 I’m currently working on Mutliplex RAG 
@@ -10,7 +6,11 @@ I am a Data Science and Analytics Engineering Student at Arizona State Universit
 - 👯 I’m looking to collaborate on Data Science projects 
 
 - 💬 Ask me about anything around Data Science and Statistics
-- 📫 How to reach me:  Contact here https://www.linkedin.com/in/vishnudwi/ 
+- 📫 How to reach me:  Contact here https://www.linkedin.com/in/vishnudwi/
+<!--
+**VishnuDwivedi/VishnuDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+ 
 
 
 -->
