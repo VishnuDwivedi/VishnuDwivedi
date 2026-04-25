@@ -1,16 +1,26 @@
-## Hi there 👋
-I am a Data Science and Analytics Engineering Student at Arizona State University . I have 4 years of experience in Tech before my Studies. 
+## 👋 Hi, I'm Vishnu Dwivedi
 
-- 🔭 I’m currently working on Multiplex RAG 
-- 🌱 I’m currently learning  Natural Language Processing
-- 👯 I’m looking to collaborate on Data Science projects 
+Data Scientist & Analytics Engineer with 4+ years of industry experience, currently at Arizona State University.
 
-- 💬 Ask me about anything around Data Science and Statistics
-- 📫 How to reach me:  Contact me here https://www.linkedin.com/in/vishnudwi/ 
-<!--
-**VishnuDwivedi/VishnuDwivedi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build data-driven systems that combine machine learning, analytics, and scalable pipelines to solve real-world problems.
 
+🔬 **Current Focus**
 
+* Multiplex RAG Systems (Retrieval-Augmented Generation)
+* Natural Language Processing
 
+📊 **Core Skills**
+Python • SQL • Machine Learning • NLP • Data Engineering • Power BI
 
--->
+🚀 **What I’m Working On**
+
+* Designing RAG pipelines for multi-source knowledge retrieval
+* Applying NLP techniques for intelligent data systems
+
+📌 **Looking to Collaborate On**
+
+* Applied ML / NLP projects
+* End-to-end data systems
+
+📫 **Connect**
+LinkedIn: https://www.linkedin.com/in/vishnudwi/
