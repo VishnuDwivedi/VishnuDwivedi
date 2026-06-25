@@ -10,7 +10,7 @@ I build data-driven systems that combine machine learning, analytics, and scalab
 * Natural Language Processing
 
 📊 **Core Skills**
-Python • SQL • Machine Learning • NLP • Data Engineering • Power BI
+Python • SQL • Machine Learning • NLP 
 
 🚀 **What I’m Working On**
 
